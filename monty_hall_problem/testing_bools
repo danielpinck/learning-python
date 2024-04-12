@@ -1,0 +1,23 @@
+import random
+liste = [False, False, False]
+winner = True
+liste[random.randint(0,2)] = winner
+player = random.randint(0,2)
+
+print(liste)
+print(f"Spieler wählt index {player} mit Wert {liste[player]}")
+
+if liste[0] is True and player == 0:
+    print(f"1. Moderator wählt index {random.choice([1,2])}")
+elif liste[1] is True and player == 1:
+    print(f"1. Moderator wählt index {random.choice([0,2])}")
+elif liste[2] is True and player == 2:
+    print(f"1. Moderator wählt index {random.choice([0,1])}")
+
+
+
+
+
+
+#player = random.randint(0,2)
+

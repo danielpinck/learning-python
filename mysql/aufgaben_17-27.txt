@@ -1,0 +1,47 @@
+17. Zeigen Sie die Anzahl der Vertreter pro Postleitzahlbezirk an. Die Postleitzahlbezirke
+sind dabei durch die ersten zwei Ziffern der Postleitzahl festgelegt.
+
+
+18. Zeigen Sie die Personalnummer und Beratungsnummer für alle Beratungen an, deren
+Wert höher als der Durchschnittswert aller Beratungen ist.
+
+
+19. Zeigen Sie Nummer und Datum aller von Mitarbeitern und Mitarbeiterinnen aus
+Hamburg aufgenommenen Beratungen im Jahr 2023 an.
+
+
+20. Es soll eine Liste aller von Mitarbeiterinnen und Mitarbeitern aus Kiel durchgeführten
+Beratungen aus dem August 2023 erstellt werden. Diese Liste soll den Nachnamen, das
+Beratungsdatum sowie den Wert der Beratung enthalten.
+
+
+21. Zeigen Sie Nummer und Datum aller Beratungen an, die von fest angestellten
+Mitarbeiterinnen und Mitarbeitern aus Kiel durchgeführt wurden.
+
+
+22. Zeigen Sie Namen und Adressen der Mitarbeiter und Mitarbeiterinnen an, die
+mindestens eine Beratung im Wert von mehr als 1000 € durchgeführt haben.
+
+
+23. Zeigen Sie für jeden Geschäftspartner den Namen, die Anzahl der mit diesem
+Geschäftspartner im Jahr 2023 gehandelten Artikelgruppen sowie den Umsatz dieses
+Geschäftspartners im Jahr 2023 an.
+
+
+24. Erstellen Sie eine Liste der Namen (Vorname und Nachname durch Leerzeichen
+getrennt) aller Vertreter, die in Bremen oder Hamburg wohnen.
+
+
+25. Es sollen für jeden Vertreter die Personalnummer sowie die Nummer und das Datum
+aller Beratungen ermittelt werden, deren Wert um 50 % höher ist als der
+durchschnittliche Wert von Beratungen dieses Vertreters.
+
+
+26. In der Tabelle Vertreter soll ein Feld ergänzt werden, in dem der Gesamtwert der
+Beratungen dieses Vertreters gespeichert wird. Fügen Sie dieses Feld ein. Welches
+Problem ist damit verbunden? Gibt es Gründe, warum man die Probleme in Kauf
+nimmt?
+
+
+27. Erstellen Sie eine Anweisung, mit der das in Aufgabe 26 eingeführte Feld für jeden
+Vertreter mit einem passenden Wert belegt wird

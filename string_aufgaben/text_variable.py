@@ -1,0 +1,1 @@
+text_var ="Hoffnung, Hoffnung, Hoffnung, Hoffnung, Hoffnung, Frieden, Frieden, Frieden, Zeilen, Zeilen, Zeilen, Zeilen, Haus, Haus, Haus, Haus, Haus, Haus, Haus, Haus, Hausen, verzeilen "

@@ -1,0 +1,32 @@
+1. Zeigen Sie für jeden Artikel die Artikelnummer und die Bezeichnung dieses Artikels an.
+
+
+2. Zeigen Sie den Vornamen und den Nachname aller Vertreter aus Hamburg an.
+
+
+3. Zeigen Sie die Vertreternummer, das Datum und den Wert aller Beratungen aus dem
+Februar 2024 an.
+
+
+4. Zeigen Sie für jeden Verkauf aus dem Jahr 2024 die Geschäftspartnernummer, die
+Menge, den Einzelpreis und den Gesamtpreis an.
+
+
+5. Zeigen Sie für alle Artikel die Artikelnummer, die Artikelbezeichnung und die
+Artikelgruppenbezeichnung an.6. Fügen Sie in der Tabelle Artikel einen Datensatz für den „USB-Stick SANDisk“ ein.
+(Artikelnummer 47, Artikelgruppe 21, Mindestbestand 35, Meldebestand 50
+Preis 9,30€)
+
+
+7. Erhöhen Sie den Preis aller Artikel der Artikelgruppe 21 um 49 Cent.
+
+
+8. Löschen Sie den Artikel mit der Nummer 47 aus der Tabelle Artikel.
+
+
+9. Zeigen Sie die Nachnamen und Wohnorte aller Vertreter, die Beratungen im Dezember
+2023 durchgeführt haben.10. Zeigen Sie für jeden Ort den Namen und die Anzahl der dort wohnenden Mitarbeiter
+an.
+
+
+11. Zeigen Sie den höchsten Wert einer Beratung an.

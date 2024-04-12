@@ -1,0 +1,11 @@
+Aufgabe 1: SELECT a.anr, a.abezeichnung FROM artikel a
+Aufgabe 2: SELECT v.vorname, v.nachname FROM vertreter v WHERE v.ort = 'Hamburg'
+Aufgabe 3:SELECT b.pnr, b.bdatum, b.wert FROM beratung b WHERE MONTH(b.bdatum) = 2 AND YEAR(b.bdatum) = 2024;
+Aufgabe 4:
+Aufgabe 5:
+Aufgabe 6:
+Aufgabe 7:
+Aufgabe 8:
+Aufgabe 9:
+Aufgabe 10:
+Aufgabe 11:
